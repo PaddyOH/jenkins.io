@@ -31,3 +31,4 @@ content/doc/pipeline/steps/*.adoc
 /Gemfile.lock
 /content/_site/
 /content/_tmp/
+/content/images/post-images/gc-tuning/s-duration-CompanyB-g1-ExplicitRemoved.png
